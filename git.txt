@@ -1,1 +1,2 @@
 master ¹2
+nice_feature ¹2
